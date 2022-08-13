@@ -40,7 +40,4 @@ PretectedRoutes - Joga o usuário para a página de login e esvazia o localstora
 
 
 <img align="right" alt="Du-React" height="50" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<<<<<<< HEAD
-=======
 
->>>>>>> refs/remotes/origin/main
