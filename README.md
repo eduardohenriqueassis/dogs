@@ -52,4 +52,8 @@ Header - que fica dentro do Head e contém as informações do usuário caso ele
 
 - Criação do Hook useForm.js e validação dos campos de login.
 
+## Aula 0809
+
+- Criação da Api Fetch, que puxa os dados da dogsapi.
+
 <img align="right" alt="Du-React" height="50" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
