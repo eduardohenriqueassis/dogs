@@ -23,43 +23,4 @@ Header - que fica dentro do Head e contém as informações do usuário caso ele
   Loading - Animações de loading de página.
   PretectedRoutes - Joga o usuário para a página de login e esvazia o localstorage caso ele saia da conta.
 
----- 13/08/2022 ----
-
-## Aula 0804 - Estrutura inicial do projeto:
-
-### Criação da pasta components
-
-- Header
-- Home
-- Footer
-- Pasta Login com os componentes Login, LoginForm, LoginCreate, LoginPasswordLost, LoginPasswordReset.
-
-## Aula 0805
-
-- Estilização do Header
-
-## Aula 0806
-
-- Criação das rotas do Login usando os componententes <Routes> e <Route>
-
-## Aula 0807
-
-- Criação dos componentes Input e Button.
-
----- 14/08/2022 ----
-
-## Aula 0807
-
-- Criação do Hook useForm.js e validação dos campos de login.
-
-## Aula 0809
-
-- Criação da Api Fetch, que puxa os dados da dogsapi.
-
----- 17/08/2022 ----
-
-# Aula 0810
-
-- Criação do UserContext - Componente que permite que todo o App tenha acesso aos dados do usuário.
-
 <img align="right" alt="Du-React" height="50" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
